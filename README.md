@@ -17,7 +17,7 @@ This project explores the distribution patterns of COVID-19 vaccines in India an
 ## 🚀 How to Access the Analysis
  **Analysis Notebook**:
    - Open the analysis in Google Colab: [Click Here] (https://colab.research.google.com/drive/1KiSeNCdJatfylTkruol3JyDV3QVaCz06)
-   - 
+     
 ## 📈 Key Insights
 - **Vaccine Doses Administered Across Age Groups**: The analysis reveals the distribution of vaccine doses across various age groups, highlighting which demographics have received the most attention in vaccination campaigns.
 - **Doses Administered vs. Individuals Vaccinated**: A comparison of the total number of doses administered against the number of individuals vaccinated, emphasizing the difference between single and multiple-dose vaccinations in different regions.
