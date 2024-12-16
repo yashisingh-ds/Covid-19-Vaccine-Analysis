@@ -7,10 +7,15 @@ This project explores the distribution patterns of COVID-19 vaccines in India an
 - **Analyze** the distribution patterns of vaccines globally and in India.
 - **Identify** trends and disparities in vaccine allocation.
 - **Provide Insights** into the global and regional vaccine strategies.
-- 
+
 ## 🛠️ Tools and Technologies
 - **Programming Language**: Python
 - **Libraries Used**: Pandas, NumPy, Matplotlib, Seaborn
-- **Notebook**: [Google Colab] (https://colab.research.google.com/)
+- **Visualization Tool**: Tableau
+- **Notebook Environment**: [Google Colab] (https://colab.research.google.com/)
+
+## 🚀 How to Access the Analysis
+ **Analysis Notebook**:
+   - Open the analysis in Google Colab: [Click Here] (https://colab.research.google.com/drive/1KiSeNCdJatfylTkruol3JyDV3QVaCz06)
 
 
